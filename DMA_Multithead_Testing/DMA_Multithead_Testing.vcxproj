@@ -24,6 +24,7 @@
     <ProjectGuid>{991d17cf-f184-4bca-b7e0-ca71f5f37efa}</ProjectGuid>
     <RootNamespace>DMAMultitheadTesting</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>DMA_Benchmarking</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
